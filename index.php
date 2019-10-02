@@ -1,2 +1,6 @@
-Meu codigo fonte
-Angelo Rodrigues
+<?php
+
+$nome = "angelo";
+echo $nome;
+
+?>
